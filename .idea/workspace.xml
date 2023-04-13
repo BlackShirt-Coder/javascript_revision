@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188ec7d4-1b6f-421f-8cc2-ec8d2af77313" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lesson_2/6_cloning _object.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/6_cloning _object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2/7_json_data_format.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/7_json_data_format.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,23 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_2/5_object_destructuring.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson_2/7_json_data_format.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="13" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson_2/6_cloning _object.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="140">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -44,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Lesson_2/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -81,8 +79,9 @@
         <option value="$PROJECT_DIR$/Lesson_2/3_traversing_obj.js" />
         <option value="$PROJECT_DIR$/Lesson_2/4_total_salary_program.js" />
         <option value="$PROJECT_DIR$/Lesson_2/5_object_destructuring.js" />
-        <option value="$PROJECT_DIR$/Lesson_2/index.html" />
         <option value="$PROJECT_DIR$/Lesson_2/6_cloning _object.js" />
+        <option value="$PROJECT_DIR$/Lesson_2/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_2/7_json_data_format.js" />
       </list>
     </option>
   </component>
@@ -123,7 +122,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,12 +150,12 @@
       <workItem from="1681324120639" duration="656000" />
       <workItem from="1681367576989" duration="28000" />
       <workItem from="1681367630407" duration="4533000" />
-      <workItem from="1681391950177" duration="6405000" />
+      <workItem from="1681391950177" duration="7281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11787000" />
+    <option name="totallyTimeSpent" value="12663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -295,14 +294,21 @@
     <entry file="file://$PROJECT_DIR$/Lesson_2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_2/6_cloning _object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="140">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_2/7_json_data_format.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
