@@ -1,0 +1,10 @@
+const users=new Map();
+users.set('developer','Ko htut');
+users.set('teacher','hla hla');
+// users.delete('teacher');
+console.log(users.has('teacher'));
+// console.log(users.get('teacher'));
+// console.log(users);
+console.log(users.keys());
+console.log(users.values());
+console.log(users.size);
