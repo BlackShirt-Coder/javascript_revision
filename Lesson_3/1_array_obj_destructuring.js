@@ -1,3 +1,4 @@
+
 function callObj(obj){
     const {name,age,address}=obj;
     console.log(`My name is ${name} and ${age} years old live in ${address}`);
@@ -17,3 +18,6 @@ function my_siblings(arr){
 const siblings=['hla hla','Kyaw Gyi'];
 my_siblings(siblings);
 console.log(Object.keys(my_info));
+
+
+const hello='hello world';
